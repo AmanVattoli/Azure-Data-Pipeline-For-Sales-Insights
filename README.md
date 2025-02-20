@@ -5,7 +5,12 @@ This project demonstrates an end-to-end data analytics pipeline for pizza sales 
 
 The pipeline includes:
 - Data ingestion from on-premises servers to **Azure Blob Storage**.
+  ![image](https://github.com/user-attachments/assets/f9e52b0d-fbd5-4fda-8f0e-fb8e941680e4)
+  ![image](https://github.com/user-attachments/assets/31b8a0f3-b752-49ca-b3bc-0ea26f62f5e9)
+
+
 - Data transformation and cleaning using **PySpark** in **Azure Databricks**.
+  ![image](https://github.com/user-attachments/assets/3bc7dd85-08ca-4ac5-a43b-3bbfe25af027)
 - Interactive data visualization through a **Power BI dashboard**.
 
 ---
