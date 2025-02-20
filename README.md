@@ -4,7 +4,7 @@
 This project demonstrates an end-to-end data analytics pipeline for pizza sales using **Azure Data Factory**, **Azure Databricks**, and **Power BI**. The objective is to process raw sales data, transform it into actionable insights, and visualize key trends to aid decision-making.
 
 The pipeline includes:
-- Data ingestion from on-premises servers to **Azure Blob Storage**.
+- Data ingestion from on-premises servers to **Azure Blob Storage** using **Azure Data Factory**.
   ![image](https://github.com/user-attachments/assets/f9e52b0d-fbd5-4fda-8f0e-fb8e941680e4)
   ![image](https://github.com/user-attachments/assets/bf899122-c15b-4a50-a534-2b19f421a5e2)
 
