@@ -11,6 +11,8 @@ The pipeline includes:
 
 - Data transformation and cleaning using **PySpark** in **Azure Databricks**.
   ![image](https://github.com/user-attachments/assets/3bc7dd85-08ca-4ac5-a43b-3bbfe25af027)
+  ![image](https://github.com/user-attachments/assets/75db39c9-d434-421f-84bc-617f2120ccd1)
+
 - Interactive data visualization through a **Power BI dashboard**.
 
 ---
